@@ -77,10 +77,10 @@
 <form method="POST">
 	<div class="content">
 		<div class="container">
-			<div class="row">
+			<div class="row align-items-start p-3">
 				
-				<div class="col-md-4">
-					<img class="img-responsive" src="images/<?= $pecah['foto_produk']; ?>" >
+				<div class="col-md-4 mb-3">
+					<img src="images/<?= $pecah['foto_produk']; ?>" class="img-fluid mx-auto d-block" style="max-height: 400px; object-fit: cover;">
 				</div>
 
 				<div class="col-md-6">

@@ -124,7 +124,7 @@
 
 			$koneksi->query("UPDATE tb_pembelian SET status = '$status' WHERE id_pembelian='$id_pembelian'");
 			echo "<script>alert('Data Pembelian Berhasil di Update');</script>";
-			echo "<script>location = 'index.php?halaman=pembayaran';</script>";
+			echo "<script>location = 'index.php?halaman=pembelian';</script>";
 		}
 		
 

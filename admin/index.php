@@ -123,14 +123,7 @@
                         <li>
                             <a href="index.php?halaman=pelanggan">
                                 <i class="fas fa-users"></i>Pelanggan</a>
-                        </li>
-                        <li>
-                            <a href="index.php?halaman=pembayaran">
-                                <i class="fas fa-credit-card"></i>Pembayaran</a>
-                        </li>
-                        
-                        
-                            
+                        </li>     
                     </ul>
                 </nav>
             </div>
